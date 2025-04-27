@@ -1,5 +1,9 @@
 # windows-11-taskbar-styler-customstarticon
 
+this repo has premade code to add a custom sratrt icon 
+
+oringinal maker of the software https://github.com/ramensoftware/windows-11-taskbar-styling-guide
+
 # How to make an icon 
 
 Step 1: on the software of your choice, you set the icon somewhere between 30 by 30 to like 40 by 40 pixels and make your design size mostly tast and doesn't fit all 
