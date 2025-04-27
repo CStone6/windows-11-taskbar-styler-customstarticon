@@ -16,3 +16,11 @@ on lines 2 and 3 under ImageSource=\"\"
 Step 2: You paste the link or directory of the image with the directory you need to have it look like this \"B:\\pictures\\starticon.png\" the name doesn't affect it
 
 Step 3: Paste the edited code into a forked copy in Windhawk and compile. Make sure you overwrite the code of Windows XP
+
+# bubbles
+
+on lines 62 and 63 under ImageSource=\"\"
+Step 2: You paste the link or directory of the image with the directory you need to have it look like this \"B:\\pictures\\starticon.png\" the name doesn't affect it
+
+Step 3: Paste the edited code into a forked copy in Windhawk and compile. Make sure you overwrite the code of Windows XP
+
