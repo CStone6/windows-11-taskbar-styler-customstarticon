@@ -7,32 +7,43 @@ Step 1: on the software of your choice, you set the icon somewhere between 30 by
 # Windows XP
 
 on lines 16 and 17 under ImageSource=\"\"
-Step 2: You paste the link or directory of the image with the directory you need to have it look like this \"B:\\pictures\\starticon.png\" the name doesn't affect it
+Step 2: You paste the link or directory of the image with the directory you need to have it look like this ↓ the name doesn't affect it
+
+```cpp
+ImageSource=\"C:\\directory\\to\\icon.png\"
+```
 
 Step 3: Paste the edited code into a forked copy in Windhawk and compile. Make sure you overwrite the code of Windows XP
 
 # only icon change
 on lines 2 and 3 under ImageSource=\"\"
-Step 2: You paste the link or directory of the image with the directory you need to have it look like this \"B:\\pictures\\starticon.png\" the name doesn't affect it
+Step 2: You paste the link or directory of the image with the directory you need to have it look like this ↓ the name doesn't affect it
+```cpp
+ImageSource=\"C:\\directory\\to\\icon.png\"
+```
 
 Step 3: Paste the edited code into a forked copy in Windhawk and compile. Make sure you overwrite the code of Windows XP
 
 # bubbles
 
 on lines 62 and 63 under ImageSource=\"\"
-Step 2: You paste the link or directory of the image with the directory you need to have it look like this \"B:\\pictures\\starticon.png\" the name doesn't affect it
+Step 2: You paste the link or directory of the image with the directory you need to have it look like this ↓ the name doesn't affect it
+
+```cpp
+ImageSource=\"C:\\directory\\to\\icon.png\"
+```
 
 Step 3: Paste the edited code into a forked copy in Windhawk and compile. Make sure you overwrite the code of g_themeBubbles
 
 # Translucent Taskbar
 
 on lines 20 and 21 under ImageSource=\"\"
-Step 2: You paste the link or directory of the image with the directory you need to have it look like this \"B:\\pictures\\starticon.png\" the name doesn't affect it
+Step 2: You paste the link or directory of the image with the directory you need to have it look like this ↓ the name doesn't affect it
+
+```cpp
+ImageSource=\"C:\\directory\\to\\icon.png\"
+```
 
 Step 3: Paste the edited code into a forked copy in Windhawk and compile. Make sure you overwrite the code of g_themeTranslucentTaskbar
 
-# Notes
-Always use double backslashes \\ in the directory. and keep it in \"\"
-
-You don't need to rename the image file — only make sure the path is correct.
 
