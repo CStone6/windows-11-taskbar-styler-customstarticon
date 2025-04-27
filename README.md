@@ -2,7 +2,7 @@
 
 # how to make icon 
 
-Step 1: on the software of your choice, you set the icon somewhere between 25 by 25 to like 30 by 30 pixels and make your design 
+Step 1: on the software of your choice, you set the icon somewhere between 30 by 30 to like 40 by 40 pixels and make your design 
 
 # windows xp
 
